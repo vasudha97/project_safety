@@ -1,0 +1,87 @@
+<resources>
+    <string name="app_name">project_safety</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="title_activity_act1">Act1</string>
+    <string name="title_activity_1">Activity_1</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_navact">navact</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="title_activity_about">about</string>
+    <string name="large_text">
+       "project_safety keeps track of you. Automatically alerts your dear one, when you are in danger.\n\n"
+
+"Uniqueness:\n"
+
+"No action is needed from you when you are in danger. project_safety automatically identifies whether you are in danger and notify the dear one.\n"
+
+"Features:\n"
+
+"1. project_safety automatically alerts your dear one when you are deviating from your path during travel (You may be kidnapped).\n"
+"2. project_safety automatically alerts your dear one when you shake the phone but doesn't reply to the alert dialog thai is opened (You may be in danger).\n"
+"3. project_safety allows the user to trigger SOS with current location details with multiple power button clicks or shakes\n"
+"4. project_safety allows the user to call the dear one with multiple power button clicks or shakes.\n"
+"5. project_safety disallows people from switching off your mobile.\n\n"
+
+"Background on automatic detection:\n"
+
+"There are hundreds of safety applications in market but none seems to be promising.\n"
+
+"Daily, many incidents against women and children are happening in this world.\n\n"
+
+"1. How safe are women when they hire a cab?\n"
+"2. How safe are women and children on the streets?\n"
+"3. How safe are your children when they go to friend's home or school?\n\n"
+
+"All the applications in the market are expecting some action from the user to let the application know that they are in danger so that they could alarm their dear one.\n"
+
+"But, when women and children are in danger, they don't get a chance to perform the action to intimate the application. That's the pitfall in all the existing applications.\n"
+
+"project_safety comes as a remedy to this situation. It automatically identifies whether you are in danger and alarms the dear ones\n\n"
+
+"How it works:\n"
+
+"1. User needs to go through the available settings and configure it as needed.\n"
+
+"2. User needs to choose the source and destination of their travel."
+"All the ideal routes between source and destination is shown. User could review the paths if needed, and if any changes they could recreate it as per their need by choosing intermediate points.\n"
+
+"3. User needs to enable the application through a button in the application or through the application widget.\n"
+
+"4. User could exit the application.\n\n"
+
+
+"Once enabled, project_safety keeps tracking you in the background. If it finds that you are deviating from any of the ideal paths, then the alert is triggered.\n"
+
+"In additional, it also monitors whether you are shaking the phone, if you are , then the alert is triggered.\n"
+
+"All the functionality in the application is configuration. Configure what is needed for your travel.\n"
+
+"One thing we didn't allow the user to configure is, they need to manually disable the application through the button or widget once the destination is reached,\n"
+
+"We really don't know what could happen even in destination. That's the reason, we want the user to manually disable it once they feel that are safe in the destination.\n"
+
+"No compromise on Safety.\n"
+
+Keywords : Women Safety, Cab Safety, Child Safety, Route Deviate\n"
+    </string>
+    <string name="title_activity_feedback">feedback</string>
+
+
+</resources>

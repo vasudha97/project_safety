@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <CheckBoxPreference
+        android:defaultValue="false"
+        android:key="selfnotifications"
+        android:title="Self Notifications"
+        />
+    <CheckBoxPreference
+        android:defaultValue="false"
+        android:key="emergencyalert"
+        android:title="Emergency Alert"
+        />
+    <CheckBoxPreference
+        android:defaultValue="false"
+        android:key="disablepoweroff"
+        android:title="Disable PowerOff"
+        />
+
+    <!--<ListPreference-->
+    <!--android:defaultValue="image"-->
+    <!--android:entries="@array/theme_labels"-->
+    <!--android:entryValues="@array/theme_values"-->
+    <!--android:key="display"-->
+    <!--android:title="Display"/>-->
+    <EditTextPreference
+        android:defaultValue="100"
+        android:key="mindist"
+        android:title="Minimum Deviating Distance(in m)"/>
+    <EditTextPreference
+        android:defaultValue="100"
+        android:key="number"
+        android:title="Emergency Number"/>
+    <EditTextPreference
+        android:defaultValue="I'm in danger...Please help me!!!"
+        android:key="message"
+        android:title="Emergency message"/>
+
+
+
+</PreferenceScreen>
